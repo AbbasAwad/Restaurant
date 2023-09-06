@@ -1,0 +1,16 @@
+E:\Windows Form Applocations\The restaurant\bin\Debug\The restaurant.exe.config
+E:\Windows Form Applocations\The restaurant\bin\Debug\The restaurant.exe
+E:\Windows Form Applocations\The restaurant\bin\Debug\The restaurant.pdb
+E:\Windows Form Applocations\The restaurant\obj\Debug\The restaurant.csproj.AssemblyReference.cache
+E:\Windows Form Applocations\The restaurant\obj\Debug\The restaurant.csproj.SuggestedBindingRedirects.cache
+E:\Windows Form Applocations\The restaurant\obj\Debug\The_restaurant.Form1.resources
+E:\Windows Form Applocations\The restaurant\obj\Debug\The_restaurant.Properties.Resources.resources
+E:\Windows Form Applocations\The restaurant\obj\Debug\The restaurant.csproj.GenerateResource.cache
+E:\Windows Form Applocations\The restaurant\obj\Debug\The restaurant.csproj.CoreCompileInputs.cache
+E:\Windows Form Applocations\The restaurant\obj\Debug\The restaurant.exe
+E:\Windows Form Applocations\The restaurant\obj\Debug\The restaurant.pdb
+E:\Windows Form Applocations\The restaurant\obj\Debug\The_restaurant.FirstCustomControl.resources
+E:\Windows Form Applocations\The restaurant\obj\Debug\The_restaurant.Secondcustomcontrol.resources
+E:\Windows Form Applocations\The restaurant\obj\Debug\The_restaurant.Therdcustomecontrol.resources
+E:\Windows Form Applocations\The restaurant\obj\Debug\The_restaurant.Fourthcustomcontrol.resources
+E:\Windows Form Applocations\The restaurant\obj\Debug\The_restaurant.Fifecustomcontrol.resources
